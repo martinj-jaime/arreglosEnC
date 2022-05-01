@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1651430219 source:c:\martin\utn mdp\prog 1\martin_jaime_tp_arreglos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"prototypes.h"
+
+1651430013 source:c:\martin\utn mdp\prog 1\martin_jaime_tp_arreglos\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"prototypes.h"
+
+1651430212 c:\martin\utn mdp\prog 1\martin_jaime_tp_arreglos\prototypes.h
+
+1651430403 source:c:\martin\utn mdp\prog 1\martin_jaime_tp_arreglos\funciones2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"prototypes.h"
+
+1490112217 c:\martin\utn mdp\prog 1\martin_jaime_tp_arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\martin\utn mdp\prog 1\martin_jaime_tp_arreglos\pila.c
+	"pila.h"
+
